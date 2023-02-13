@@ -81,7 +81,7 @@ header{
   /* Dispositivos pequeños*/
   
   
-  @media screen and (max-width: 600px){
+  @media screen and (max-width: 630px){
   
     header{
         height: 100vh;
