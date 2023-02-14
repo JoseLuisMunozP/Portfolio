@@ -18,8 +18,8 @@ const About = () => {
           <figure>
             <img src={Me} alt="Me" /> 
             <div className='capa'>
-              <h3>Lorem</h3>
-              <p>Veniam voluptatem laborum voluptatum voluptate iure quod illum veniam. </p>
+              <h3>Sobre mí</h3>
+              <p>Soy autoexigente y perfeccionista, intento siempre mejorar y aprender cosas nuevas.</p>
             </div>
           </figure>
         </div>
@@ -42,7 +42,7 @@ const About = () => {
           <article className='about__card'>
           <AiOutlineUser className='about__icon' />
 
-            <h5>CV</h5>
+            <h5>Formación</h5>
             <small>Ingeniero multimedia con un 7.75 de media, 9 sobresalientes y una matrícula de honor.</small>
 
           </article>
@@ -60,7 +60,7 @@ const About = () => {
       <p>
       ¡Hola! Me llamo José Luis Muñoz, y soy un programador y desarrollador alicantino. Graduado en 
       Ingeniería multimedia por la Universidad de Alicante cuento con un diverso conjunto de habilidades,
-      entre las que se encuentran programación en C/C++, desarrollo web y modelado y animación, entre otras.    
+      entre las que se encuentran programación en C/C++, desarrollo web y modelado y animación.    
       </p>
 
       <a href='#Contact' className='btn btn-primary'>Contáctame</a>

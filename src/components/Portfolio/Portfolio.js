@@ -104,10 +104,13 @@ const Portfolio = () => {
             <img src={Img6} alt="My work" />
 
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Aplicación Android de articulos médicos</h3>
+
+          <h5>Realizada en Java en Android Studio y el contenido se genera accediendo a una base de datos mediante SQL queries.</h5>
+
           <div className='portfolio__item-links'>
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/JoseLuisMunozP/Healthcare-App' className='btn' target='_blank'>Github</a>
+            <a href='https://www.youtube.com/watch?v=SoWNVEx-qVU' className='btn' target='_blank'>Ver video</a>
           </div>
         </article>
 

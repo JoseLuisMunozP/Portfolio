@@ -106,7 +106,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Autoexigente y trabajador</p>
+              <p>Autoexigente y trabajador.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
