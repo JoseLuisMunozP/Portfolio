@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4cc0f1d8.css",
-    "main.js": "/Portfolio/static/js/main.a76fc0cf.js",
+    "main.js": "/Portfolio/static/js/main.86191e7d.js",
     "static/media/me.png": "/Portfolio/static/media/me.af4fc024f2c443394cf1.png",
     "static/media/me-about.png": "/Portfolio/static/media/me-about.3338590336202da5a549.png",
     "static/media/portfolio1.PNG": "/Portfolio/static/media/portfolio1.814b5a2d960e9e654cce.PNG",
     "static/media/portfolio5.PNG": "/Portfolio/static/media/portfolio5.27c35d97ec0e7f02617e.PNG",
-    "static/media/cv.pdf": "/Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/portfolio4.PNG": "/Portfolio/static/media/portfolio4.ba663dc78c9baacc5ba5.PNG",
     "static/media/portfolio2.PNG": "/Portfolio/static/media/portfolio2.9c6bf3f069e84a1f2284.PNG",
+    "static/media/Jose Luis Muñoz - CV.pdf": "/Portfolio/static/media/Jose Luis Muñoz - CV.dae847c1adb59c7b4e43.pdf",
+    "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.bccb75c4911ba6ad46b4.jpg",
     "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.b6aea1ea057418685830.jpg",
-    "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "index.html": "/Portfolio/index.html",
     "main.4cc0f1d8.css.map": "/Portfolio/static/css/main.4cc0f1d8.css.map",
-    "main.a76fc0cf.js.map": "/Portfolio/static/js/main.a76fc0cf.js.map"
+    "main.86191e7d.js.map": "/Portfolio/static/js/main.86191e7d.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc0f1d8.css",
-    "static/js/main.a76fc0cf.js"
+    "static/js/main.86191e7d.js"
   ]
 }
