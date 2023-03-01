@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4cc0f1d8.css",
-    "main.js": "/Portfolio/static/js/main.86191e7d.js",
+    "main.js": "/Portfolio/static/js/main.91728830.js",
     "static/media/me.png": "/Portfolio/static/media/me.af4fc024f2c443394cf1.png",
     "static/media/me-about.png": "/Portfolio/static/media/me-about.3338590336202da5a549.png",
     "static/media/portfolio1.PNG": "/Portfolio/static/media/portfolio1.814b5a2d960e9e654cce.PNG",
@@ -10,13 +10,14 @@
     "static/media/portfolio2.PNG": "/Portfolio/static/media/portfolio2.9c6bf3f069e84a1f2284.PNG",
     "static/media/Jose Luis Muñoz - CV.pdf": "/Portfolio/static/media/Jose Luis Muñoz - CV.dae847c1adb59c7b4e43.pdf",
     "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.bccb75c4911ba6ad46b4.jpg",
+    "static/media/portfolio7.PNG": "/Portfolio/static/media/portfolio7.ade02df57f59eb836b37.PNG",
     "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.b6aea1ea057418685830.jpg",
     "index.html": "/Portfolio/index.html",
     "main.4cc0f1d8.css.map": "/Portfolio/static/css/main.4cc0f1d8.css.map",
-    "main.86191e7d.js.map": "/Portfolio/static/js/main.86191e7d.js.map"
+    "main.91728830.js.map": "/Portfolio/static/js/main.91728830.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc0f1d8.css",
-    "static/js/main.86191e7d.js"
+    "static/js/main.91728830.js"
   ]
 }
