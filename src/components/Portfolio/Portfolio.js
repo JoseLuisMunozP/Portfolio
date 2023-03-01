@@ -6,6 +6,7 @@ import Img3 from '../../assets/portfolio3.jpg'
 import Img4 from '../../assets/portfolio4.PNG'
 import Img5 from '../../assets/portfolio5.PNG'
 import Img6 from '../../assets/portfolio6.jpg'
+import Img7 from '../../assets/portfolio7.PNG'
 
 const Portfolio = () => {
 
@@ -29,8 +30,8 @@ const Portfolio = () => {
           <h5>Proyecto de final de carrera en grupo de 8 asignaturas conjuntas, totalmente desde cero, incluyendo la programación, el motor de red y el motor gráfico.</h5>
 
           <div className='portfolio__item-links'>
-            <a href='https://github.com/emf31/LastBullet' className='btn' target='_blank'>Github</a>
-            <a href='https://www.youtube.com/watch?v=bLPco8Ss1o8&t=1s' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/emf31/LastBullet' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.youtube.com/watch?v=bLPco8Ss1o8&t=1s' className='btn' target='_blank' rel="noreferrer">Ver video</a>
           </div>
         </article>
 
@@ -45,8 +46,8 @@ const Portfolio = () => {
           <h5>Videojuego hecho en Unreal Engine compatible con Realidad Virtual como proyecto de fin de grado.</h5>
 
           <div className='portfolio__item-links'>
-            <a href='https://github.com/JoseLuisMunozP/TFG' className='btn' target='_blank'>Github</a>
-            <a href='https://www.youtube.com/watch?v=xPrr6CQ2DJ8' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/JoseLuisMunozP/TFG' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.youtube.com/watch?v=xPrr6CQ2DJ8' className='btn' target='_blank' rel="noreferrer">Ver video</a>
           </div>
         </article>
 
@@ -61,8 +62,8 @@ const Portfolio = () => {
           <h5>Esta página web ha sido programada por mi usando React, HTML, JavaScript y CSS.</h5>
 
           <div className='portfolio__item-links'>
-            <a href='https://github.com' className='btn' target='_blank'>Github</a>
-            <a href='https://dribbble.com/Alien_pixels' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://dribbble.com/Alien_pixels' className='btn' target='_blank' rel="noreferrer">Ver video</a>
           </div>
         </article>
 
@@ -76,8 +77,8 @@ const Portfolio = () => {
 
           <h5>He participado en varias Game Jams, destacando una Game Jam en Cambridge en la que fuimos finalistas representando a la Universidad de Alicante. </h5>
           <div className='portfolio__item-links'>
-            <a href='https://github.com/Tonire/ParadoxCambridge' className='btn' target='_blank'>Github</a>
-            <a href='https://youtu.be/V-PmQ1HGKZw?t=25' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/Tonire/ParadoxCambridge' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://youtu.be/V-PmQ1HGKZw?t=25' className='btn' target='_blank' rel="noreferrer">Ver video</a>
             
           </div>
         </article>
@@ -93,8 +94,8 @@ const Portfolio = () => {
           <h5>Otra Game Jam destacable en la que he participado es una celebrada en Alicante en la que mi grupo y yo conseguimos el segundo puesto.</h5>
 
           <div className='portfolio__item-links'>
-            <a href='https://github.com/Tonire/TryToVote' className='btn' target='_blank'>Github</a>
-            <a href='https://www.youtube.com/watch?v=0T3mhLLmlN8' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/Tonire/TryToVote' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.youtube.com/watch?v=0T3mhLLmlN8' className='btn' target='_blank' rel="noreferrer">Ver video</a>
           </div>
         </article>
 
@@ -109,8 +110,24 @@ const Portfolio = () => {
           <h5>Realizada en Java en Android Studio y el contenido se genera accediendo a una base de datos mediante SQL queries.</h5>
 
           <div className='portfolio__item-links'>
-            <a href='https://github.com/JoseLuisMunozP/Healthcare-App' className='btn' target='_blank'>Github</a>
-            <a href='https://www.youtube.com/watch?v=SoWNVEx-qVU' className='btn' target='_blank'>Ver video</a>
+            <a href='https://github.com/JoseLuisMunozP/Healthcare-App' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://www.youtube.com/watch?v=SoWNVEx-qVU' className='btn' target='_blank' rel="noreferrer">Ver video</a>
+          </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+
+            <img src={Img7} alt="My work" />
+
+          </div>
+          <h3>API REST de países</h3>
+
+          <h5>Página web hecha en React que mediante peticiones a una API se cargan los datos necesarios que solicita el usuario de los diferentes países del mundo.</h5>
+
+          <div className='portfolio__item-links'>
+            <a href='https://github.com/JoseLuisMunozP/rest-countries' className='btn' target='_blank' rel="noreferrer">Github</a>
+            <a href='https://joseluismunozp.github.io/rest-countries/' className='btn' target='_blank' rel="noreferrer">Ver web</a>
           </div>
         </article>
 
